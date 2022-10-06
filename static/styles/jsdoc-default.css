@@ -145,7 +145,7 @@ blockquote {
 #main {
   float: right;
   min-width: 360px;
-  width: calc(100% - 250px);
+  width: calc(100% - 260px);
   padding: 0 30px 20px 30px;
 }
 
@@ -248,7 +248,7 @@ section {
 nav {
   float: left;
   display: block;
-  width: 280px;
+  width: 260px;
   background: #fff;
   overflow: auto;
   position: fixed;
